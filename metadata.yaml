@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31124
     wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27369#Spasimo
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2008-11-30'
 gutenberg_type: Text
