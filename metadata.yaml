@@ -1,0 +1,31 @@
+_repo: Spasimo_27369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Roberto, Federico
+    aliases:
+    - Roberto, Federico de
+    - De Roberto, Federigo
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '31124'
+    url: http://www.gutenberg.org/2009/agents/31124
+    wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27369'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcc 'PQ'
+title: Spasimo
+url: http://www.gutenberg.org/ebooks/27369
